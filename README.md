@@ -50,6 +50,9 @@ PIDBA Maps 10 September 2026.pdf
     type/type group, prepared for a poster session at the
     Paleoamerican Odyssey 2026 conference (15 October 2026).
 
+    A zip file with high resolution (300 DPI) figures can be found
+    here: https://www.dropbox.com/scl/fo/umir80tu4n90ly85tsknc/ACSaGISB8_OGkpRDPamVzdw?rlkey=26i5zg8b4m8jzfsknoiras9ro&dl=0
+
 PIDBA_GIS.zip
     GIS package built from the locational database -- shapefile,
     GeoPackage, and a column codebook. See below.
